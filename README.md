@@ -14,7 +14,7 @@
 
 <img align="center" alt="Projeto LinkBio" src=".github/preview.jpg" width="100%"/>
 
-## 🚀 Techs
+## 🚀 Projeto
 
 Usando as seguintes tecnologias
 
