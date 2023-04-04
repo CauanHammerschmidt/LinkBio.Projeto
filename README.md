@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src=".github/preview.jpg>
-</p>
+  <img alt="" src="C:\Users\cauan\OneDrive\Área de Trabalho\projeto1\.github>"
 
 <br>
 
